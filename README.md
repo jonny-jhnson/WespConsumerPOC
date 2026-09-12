@@ -1,4 +1,5 @@
 # WESP ProcessCreate POC
+**Accompanying blog:** https://jonny-jhnson.dev/blog/a-first-look-inside-the-windows-endpoint-security-platform/
 
 A small consumer for the undocumented Windows Endpoint Security Platform
 (WESP). It uses `%SystemRoot%\System32\espclient.dll` to:
